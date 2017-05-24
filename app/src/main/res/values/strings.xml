@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GalaryWithFragment</string>
+    <string name="defaultLeftText">Default left text</string>
+    <string name="defaultRightText">Default Right Text</string>
+    <string name="labelRed">Label Red</string>
+    <string name="labelGreen">Label Green</string>
+    <string name="cameraPath">Label Green</string>
+
+</resources>
